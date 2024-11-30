@@ -1,2 +1,4 @@
 Get User info..
 Validate.. and process
+
+create an avatar for User
